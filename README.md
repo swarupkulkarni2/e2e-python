@@ -9,3 +9,11 @@ Python practice problems with solution...
 
 3. Prime Number check. (primeNum-check.py)
      Write a program that takes an input from the user and determines whether it is a prime number or not, using a while loop.
+
+4. Number Pattern. (number-pattern.py)
+     Print the following pattern using a while loop:
+   1
+   1 2
+   1 2 3
+   1 2
+   1
